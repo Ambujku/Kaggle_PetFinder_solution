@@ -53,4 +53,4 @@ PhotoAmt - Total uploaded photos for this pet
 
 Description - Profile write-up for this pet. The primary language used is English, with some in Malay or Chinese.
 
-Tried with Description column, updating soon.
+**Tried with Description column, updating soon.
