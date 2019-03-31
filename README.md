@@ -33,6 +33,8 @@ Vaccinated - Pet has been vaccinated (1 = Yes, 2 = No, 3 = Not Sure)
 
 Dewormed - Pet has been dewormed (1 = Yes, 2 = No, 3 = Not Sure)
 
+
+
 Sterilized - Pet has been spayed / neutered (1 = Yes, 2 = No, 3 = Not Sure)
 
 Health - Health Condition (1 = Healthy, 2 = Minor Injury, 3 = Serious Injury, 0 = Not Specified)
@@ -50,3 +52,5 @@ VideoAmt - Total uploaded videos for this pet
 PhotoAmt - Total uploaded photos for this pet
 
 Description - Profile write-up for this pet. The primary language used is English, with some in Malay or Chinese.
+
+**Tried with Description column, updating soon.
