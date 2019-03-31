@@ -39,6 +39,8 @@ Sterilized - Pet has been spayed / neutered (1 = Yes, 2 = No, 3 = Not Sure)
 
 Health - Health Condition (1 = Healthy, 2 = Minor Injury, 3 = Serious Injury, 0 = Not Specified)
 
+Added another code with Description column(NLP) and LGBM method. 
+
 Quantity - Number of pets represented in profile
 
 Fee - Adoption fee (0 = Free)
